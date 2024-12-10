@@ -1,0 +1,43 @@
+.containerBox {
+    border: 2px solid rgb(98, 165, 98);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    width: 30%;
+    padding: 5px;
+    background-color: rgb(235, 224, 198);
+    min-width: 30vw;
+}
+
+.containerHeader {
+    width: 100%;
+    background-color: rgb(98, 165, 98);
+    border-radius: 10px 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+    height: 1.5rem;
+}
+
+.containerTitle {
+    color: lightgoldenrodyellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.containerMaximize {
+    max-width: 50px;
+    width: 15%;
+    border-radius: 10px 10px 0 0;
+    border: 1px solid rgb(98, 165, 98);
+    cursor: pointer;
+}
+
+.containerTextArea {
+    max-width: 100%;
+    min-width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+    border: none;
+    border-radius: 0 0 10px 10px;
+}

@@ -1,0 +1,7 @@
+body {
+    background-color: lightgoldenrodyellow;
+    margin: 0;
+    padding: 3%;
+    max-height: 100vh;
+    overflow: hidden;
+}

@@ -1,0 +1,12 @@
+.panelComponent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.viewerComponent {
+    width: 100%;
+}
+
+.editorComponent {
+    max-width: 40%;
+}
